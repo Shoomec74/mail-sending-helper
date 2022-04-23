@@ -1,7 +1,7 @@
 module.exports = {
   host: "smtp.yandex.ru",
   auth: {
-    user: "",
-    pass: "",
+    user: "evgeny.rusakov@cleanwave.pro",
+    pass: "sdfsdfdsf",
   },
 };
